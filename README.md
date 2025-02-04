@@ -250,6 +250,8 @@ Addressing these challenges through strategic initiatives can improve retention,
 4. **Retain High Performers**
    - Develop targeted retention plans for employees with above-average evaluations.
    - Offer performance-based incentives.
+![Screenshot_4-2-2025_1994_chatgpt com](https://github.com/user-attachments/assets/4ad177e1-836a-4100-b1be-c2b75721b0ce)
+
 
 5. **Address High Third-Year Attrition**
    - Introduce mid-term retention bonuses.
