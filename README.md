@@ -272,12 +272,9 @@ Addressing these challenges through strategic initiatives can improve retention,
 
 **Tools Used:**
 
-- **Excel**: Data cleaning, exploratory analysis.
-- **Power BI**: Interactive dashboard development.
+- **Excel**: Data cleaning, exploratory analysis.[2222.xlsx](https://github.com/user-attachments/files/18658273/2222.xlsx)
 
-**Dashboard:**
-- A comprehensive Power BI dashboard visualizing trends and insights is available
-  
+- **Power BI**: Interactive dashboard development.
 
 ---
 
