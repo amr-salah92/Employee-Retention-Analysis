@@ -93,7 +93,7 @@ Addressing these challenges through strategic initiatives can improve retention,
 - Promotion rate among departed employees was only 0.69%.
 - Highest number of work accidents, though not a primary reason for leaving.
 
-![Screenshot_4-2-2025_152642_chatgpt com](https://github.com/user-attachments/assets/6c040993-5883-4c76-9c80-1e74f9755afd)
+![Screenshot_5-2-2025_164229_chatgpt com](https://github.com/user-attachments/assets/ba718d09-182c-48bd-840f-72c38da7eb64)
 
 **Recommendations:**
 
@@ -112,8 +112,8 @@ Addressing these challenges through strategic initiatives can improve retention,
 - 26% of departing employees had above-average satisfaction and evaluations.
 - High workload (average 214 monthly hours).
 - Lowest promotion rate among all departments (0.43%).
-
-![Screenshot_4-2-2025_152952_chatgpt com](https://github.com/user-attachments/assets/f75e8e24-3ba8-4998-99a6-d6720887d88b)
+  
+![Screenshot_5-2-2025_164526_chat deepseek com](https://github.com/user-attachments/assets/a3824af2-c432-4552-9d79-557faefed615)
 
 **Recommendations:**
 
@@ -130,7 +130,8 @@ Addressing these challenges through strategic initiatives can improve retention,
 - 49% left due to medium salaries, 45% due to low salaries.
 - No promotions recorded among employees who left.
 
-![Screenshot_4-2-2025_153338_chatgpt com](https://github.com/user-attachments/assets/33e9ac48-e875-431d-9df9-c6c8e2620a0f)
+![Screenshot_5-2-2025_164955_chat deepseek com](https://github.com/user-attachments/assets/7ede73e0-69e4-44ae-a797-24055eb67193)
+
 
 **Recommendations:**
 
