@@ -250,7 +250,8 @@ Addressing these challenges through strategic initiatives can improve retention,
 4. **Retain High Performers**
    - Develop targeted retention plans for employees with above-average evaluations.
    - Offer performance-based incentives.
-![Screenshot_4-2-2025_1994_chatgpt com](https://github.com/user-attachments/assets/4ad177e1-836a-4100-b1be-c2b75721b0ce)
+
+![Screenshot_4-2-2025_1994_chatgpt_LE_upscale_balanced_x4](https://github.com/user-attachments/assets/0b6234af-64c8-4a09-824a-de16e32e22ac)
 
 
 5. **Address High Third-Year Attrition**
@@ -266,7 +267,7 @@ Addressing these challenges through strategic initiatives can improve retention,
 7. **Continue Improving Safety Measures**
    - Invest in safety training, regular audits, and workplace improvements to reduce the total number of accidents, enhancing overall employee well-being.
 
-![Screenshot_4-2-2025_154858_chatgpt com](https://github.com/user-attachments/assets/e752e072-1775-4201-9251-72997ba2483e)
+![Screenshot_4-2-2025_154858_chatgpt_LE_upscale_balanced_x4](https://github.com/user-attachments/assets/b58113ab-772a-440d-8e7f-11cc7f929921)
 
 ---
 
